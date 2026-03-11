@@ -466,7 +466,7 @@ body.members-page {
     display: flex;
     flex-direction: column;
     background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-                url("../images/apply.jpg");
+                url("./images/apply.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
